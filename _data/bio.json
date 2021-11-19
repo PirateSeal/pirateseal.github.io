@@ -30,30 +30,19 @@
   "interests": [
     {
       "name": "Video Games",
-      "keywords": [
-        "PCMR",
-        "PlayStation",
-        "Xbox"
-      ]
+      "keywords": []
     },
     {
       "name": "Horse Riding",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Airsoft",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Music",
-      "keywords": [
-        "Rock",
-        "Pop",
-        "Electronic",
-        "EDM"
-      ]
+      "keywords": ["Rock", "Pop", "Electronic", "EDM"]
     }
   ],
   "skills": [
@@ -67,8 +56,7 @@
         "Ansible",
         "Java",
         "Javascript",
-        "SQL",
-        "Common Lisp"
+        "SQL"
       ]
     },
     {
@@ -88,14 +76,31 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "Lycée René Cassin",
+      "area": "Baccalauréat Scientifique",
+      "studyType": "",
       "startDate": "2013-09-01",
-      "endDate": "Present",
+      "endDate": "2016-07-01",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
+    },
+    {
+      "institution": "ICAN",
+      "area": "License",
+      "studyType": "Game Design",
+      "startDate": "2016-09-01",
+      "endDate": "2017-07-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "INTECH",
+      "area": "Expertise",
+      "studyType": "Software Engineering",
+      "startDate": "2017-09-01",
+      "endDate": "2022-09-01",
+      "gpa": "",
+      "courses": []
     }
   ],
   "work": [
