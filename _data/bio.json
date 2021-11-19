@@ -6,13 +6,7 @@
     "email": "tcousin.pseal@gmail.com",
     "phone": "+33 6 98 36 33 83",
     "website": "https://pirateseal.github.io",
-    "summary": "5th year student in Software Engineering at INTECH, Ivry-sur-Seine in France.
-    
-    I want to discover the DevOps philosophy, and specifically learn and master the continuous integration and deployment pipelines.
-    
-    As a developer, I have preferences for C#, Java and SQL.
-    
-    I'm expanding my skills in integration and DevOps with Docker and now Ansible.",
+    "summary": "5th year student in Software Engineering at INTECH, Ivry-sur-Seine in France. <br> I want to discover the DevOps philosophy, and specifically learn and master the continuous integration and deployment pipelines. As a developer, I have preferences for C#, Java and SQL. I'm expanding my skills in integration and DevOps with Docker and now Ansible.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -23,43 +17,42 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "PirateSeal",
+        "url": "https://github.com/PirateSeal"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "tcousin-pseal",
+        "url": "https://linkedin.com/in/tcousin-pseal"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video Games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "PCMR",
+        "PlayStation",
+        "Xbox"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Horse Riding",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Airsoft",
       "keywords": [
       ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Rock",
+        "Pop",
+        "Electronic",
+        "EDM",
     }
   ],
   "skills": [
@@ -67,11 +60,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C#",
+        "ASP.NET",
+        "Docker",
+        "Ansible",
         "Java",
         "Javascript",
-        "Assembly",
+        "SQL",
         "Common Lisp"
       ]
     },
@@ -79,11 +74,14 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
+        "CentOs",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Jetbrains suite"
+        "Adobe Photoshop"
+        "Adobe Illustrator"
       ]
     }
   ],
