@@ -29,8 +29,8 @@
   },
   "interests": [
     {
-      "name": "Video Games",
-      "keywords": ["oui"]
+      "name": "Jeux Vidéos",
+      "keywords": []
     },
     {
       "name": "Horse Riding",
@@ -76,6 +76,23 @@
   ],
   "education": [
     {
+      "institution": "INTECH",
+      "area": "Ingénierie du Logiciel",
+      "studyType": "Expertise",
+      "startDate": "2017-09-01",
+      "endDate": "2022-09-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "ICAN",
+      "area": "Game Design",
+      "studyType": "License",
+      "startDate": "2016-09-01",
+      "endDate": "2017-07-01",
+      "gpa": "",
+      "courses": []
+    },{
       "institution": "Lycée René Cassin",
       "area": "Baccalauréat Scientifique",
       "studyType": "",
@@ -83,34 +100,16 @@
       "endDate": "2016-07-01",
       "gpa": "",
       "courses": []
-    },
-    {
-      "institution": "ICAN",
-      "area": "License",
-      "studyType": "Game Design",
-      "startDate": "2016-09-01",
-      "endDate": "2017-07-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
-      "institution": "INTECH",
-      "area": "Expertise",
-      "studyType": "Software Engineering",
-      "startDate": "2017-09-01",
-      "endDate": "2022-09-01",
-      "gpa": "",
-      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Thales",
+      "position": "Alternant DevOps",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-09-06",
+      "endDate": "2022-09-02",
+      "summary": "Gestion et maintient en condition opérationnel de plusieurs plateformes d'intégration continue",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
